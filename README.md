@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my GitHub profile!  
+
+Something about me... I have a Bachelor's degree in Computer Science with a specialization in Software Engineering.
+
+During my studies and internship, I gained practical experience with the following technologies:
+
+- Languages: Java, Python, JavaScript, SQL, PHP 
+- Frameworks/Libraries: Spring Boot, React.js, Node.js, Swing
+- Databases: MySQL, PostgreSQL 
+- Tools: Git, GitHub, Postman, Docker, IntelliJ, VS Code 
+- Testing: JUnit / Mockito, Manual & Automated QA, Debugging 
+- Other: Agile/Scrum, Linux / Bash Scripting, GitLab, API Development
+
+
 Here you'll find projects related to Java Spring/Swing | Python | PHP | JavaScript | more...
 
 📫 How to reach me: 
