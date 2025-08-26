@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 Something about me... I have a Bachelor's degree in Computer Science with a specialization in Software Engineering.
 
-During my studies and internship, I gained practical experience with the following technologies:
+Through my studies, internship, and personal projects, I've gained valuable experience working with the following technologies:
 
 - Languages: Java, Python, JavaScript, SQL, PHP 
 - Frameworks/Libraries: Spring Boot, React.js, Node.js, Swing
