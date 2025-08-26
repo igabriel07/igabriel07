@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, I'm Gabriel!
 
 <!--
 **igabriel07/igabriel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile!  
+Here you'll find projects related to Java Spring/Swing | Python | PHP | JavaScript | more...
+
+📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/gavriil-ilikidis/)  [Email] (gabrielilikidis@gmail.com)
+
