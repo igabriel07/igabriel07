@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!  
 Here you'll find projects related to Java Spring/Swing | Python | PHP | JavaScript | more...
 
-📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/gavriil-ilikidis/)  [Email] (gabrielilikidis@gmail.com)
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/gavriil-ilikidis/)  [Email] (gabrielilikidis@gmail.com)
 
