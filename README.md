@@ -21,12 +21,12 @@ Something about me... I have a Bachelor's degree in Computer Science with a spec
 
 Through my studies, internship, and personal projects, I've gained valuable experience working with the following technologies:
 
-- Languages: Java, Python, JavaScript, SQL, PHP 
-- Frameworks/Libraries: Spring Boot, React.js, Node.js, Swing
+- Languages: Java, Python, C#, JavaScript, SQL, PHP 
+- Frameworks/Libraries: Spring Boot, .NET, React.js, Node.js, Swing
 - Databases: MySQL, PostgreSQL 
 - Tools: Git, GitHub, Postman, Docker, IntelliJ, VS Code 
 - Testing: JUnit / Mockito, Manual & Automated QA, Debugging 
-- Other: Agile/Scrum, Linux / Bash Scripting, GitLab, API Development
+- Other: Agile/Scrum, Linux / Bash Scripting, GitLab, API Development, Web Scraping, Machine Learning, AI Training...
 
 
 Here you'll find projects related to Java Swing | Python | PHP | JavaScript | more...
