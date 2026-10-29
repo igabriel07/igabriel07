@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!  
 
-Something about me... I have a Bachelor's degree in Computer Science with a specialization in Software Engineering.
+Something about me... I have a Bachelor's degree in Information Technology Engineering in Software Engineering.
 
 Through my studies, internship, and personal projects, I've gained valuable experience working with the following technologies:
 
