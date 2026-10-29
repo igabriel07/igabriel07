@@ -1,36 +1,18 @@
-## 👋 Hi there, I'm Gabriel!
+## 👋 Hi, I'm Gabriel (Gavriil Ilikidis)
 
-<!--
-**igabriel07/igabriel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Thessaloniki, Greece, with a BSc in Information Technology Engineering.
+I build backend services and data pipelines, mainly with **Java / Spring Boot** and **Python**.
 
-Here are some ideas to get you started:
+**Currently:** Data Steward at Veeva Systems, working on data quality across cloud and CRM platforms.  
+**Recently:** Built an end-to-end computer vision system for detecting photovoltaic faults from thermal drone imagery (freelance, Toposol).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Featured projects
+- **[library-api](https://github.com/igabriel07/library-api)**: REST API for library management (Java, Spring Boot, JPA, PostgreSQL)
+- **[pv-thermal-inspection](https://github.com/igabriel07/pv-thermal-inspection)**: YOLOv8 anomaly detection on thermal images, review UI, automated PDF reports (Python, Docker)
+- **[Bibliometric Database](https://github.com/igabriel07/Bibliometric-Database-for-Greek-Computer-Science-Departments)**: BSc thesis: Selenium scraping pipeline, MySQL database, PHP REST API
+- **[Logistics-Management-System](https://github.com/igabriel07/Logistics-Management-System)**: C# / .NET application
 
-Welcome to my GitHub profile!  
+### 🧰 Main stack
+Java · Spring Boot · Python · C# / .NET · SQL (PostgreSQL, MySQL) · Docker · Git · JUnit / Mockito
 
-Something about me... I have a Bachelor's degree in Information Technology Engineering in Software Engineering.
-
-Through my studies, internship, and personal projects, I've gained valuable experience working with the following technologies:
-
-- Languages: Java, Python, C#, JavaScript, SQL, PHP 
-- Frameworks/Libraries: Spring Boot, .NET, React.js, Node.js, Swing
-- Databases: MySQL, PostgreSQL 
-- Tools: Git, GitHub, Postman, Docker, IntelliJ, VS Code 
-- Testing: JUnit / Mockito, Manual & Automated QA, Debugging 
-- Other: Agile/Scrum, Linux / Bash Scripting, GitLab, API Development, Web Scraping, Machine Learning, AI Training...
-
-
-Here you'll find projects related to Java Spring/Swing | C# | Python | PHP | JavaScript | more...
-
-📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavriil-ilikidis/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielilikidis@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/gavriil-ilikidis/) · gabrielilikidis@gmail.com
